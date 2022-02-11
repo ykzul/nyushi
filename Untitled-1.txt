@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>日本語教育関連情報</title>
+</head>
+
+<body>
+<h1>茨城県高校入試情報</h1>
+</html>
