@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
 <title>日本語教育関連情報</title>
